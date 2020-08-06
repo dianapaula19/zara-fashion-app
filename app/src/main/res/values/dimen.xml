@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_of_image">200dp</dimen>
+    <dimen name="text_size_style">25sp</dimen>
+    <dimen name="height_image">186dp</dimen>
+    <dimen name="width_image">150dp</dimen>
+    <dimen name="margin_grid_view">16dp</dimen>
+    <dimen name="margin_text_view">32dp</dimen>
+</resources>

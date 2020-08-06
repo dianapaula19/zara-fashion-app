@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zara Fashion</string>
+    <string name="whats_your_style">What\'s your style?</string>
+    <string name="question1">Pick a top</string>
+    <string name="question2">Pick a pair of pants or a skirt</string>
+    <string name="question3">Pick a dress</string>
+    <string name="question4">Pick a statement outerwear</string>
+    <string name="question5">Pick a pair of shoes</string>
+    <string name="question6">Pick an accessory</string>
+    <string name="link"><a href="https://www.zara.com/uk/">Check Zara\'s website</a></string>
+    <string name="bohemian" translatable="false">Bohemian</string>
+    <string name="chic" translatable="false">Chic</string>
+    <string name="vintage" translatable="false">Vintage</string>
+    <string name="casual" translatable="false">Casual</string>
+
+    <string name="retake">Retake the test</string>
+</resources>

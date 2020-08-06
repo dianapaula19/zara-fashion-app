@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zara Fashion</string>
+    <string name="whats_your_style">Care este stilul tău?</string>
+    <string name="question1">Alegeți un top</string>
+    <string name="question2">Alegeți o pereche de pantaloni sau o fustă</string>
+    <string name="question3">Alegeți o rochie</string>
+    <string name="question4">Alegeți o jachetă</string>
+    <string name="question5">Alegeți o pereche de pantofi</string>
+    <string name="question6">Alegeți un accesoriu</string>
+    <string name="link"><a href="https://www.zara.com/ro/">Vizitați magazinul Zara</a></string>
+    <string name="retake">Reluați testul</string>
+</resources>
