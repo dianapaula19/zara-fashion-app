@@ -7,6 +7,10 @@ six screens of clothing photos, and the app tells you whether your style is **bo
 **casual**, **chic** or **vintage**, and lets you retake the test. Made for my high-school
 Computer Science certification exam.
 
+![The four style results](docs/styles.png)
+
+*The four possible results (photos of Zara models, from Zara).*
+
 - Java, Android SDK 26 (min SDK 15), one activity per question and a result activity
 - Each answer adds a point to one of the four styles; the result screen shows the style with
   the most points
