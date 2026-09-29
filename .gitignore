@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+*.iml
+local.properties
+build/
+# signing keys never go in git
+*.jks
+*.keystore
