@@ -11,6 +11,23 @@ Computer Science certification exam.
 - Each answer adds a point to one of the four styles; the result screen shows the style with
   the most points
 
+## Screenshots
+
+<p>
+  <img src="docs/main.png" width="24%" alt="Start screen">
+  <img src="docs/q1.png" width="24%" alt="Pick a top">
+  <img src="docs/q2.png" width="24%" alt="Pick a pair of pants or a skirt">
+  <img src="docs/q3.png" width="24%" alt="Pick a dress">
+</p>
+<p>
+  <img src="docs/q4.png" width="24%" alt="Pick a statement outerwear">
+  <img src="docs/q5.png" width="24%" alt="Pick a pair of shoes">
+  <img src="docs/q6.png" width="24%" alt="Pick an accessory">
+</p>
+
+Rendered in 2026 from the app's own layouts with [Paparazzi](https://github.com/cashapp/paparazzi).
+The result screens are not shown here because their example photos are of celebrities.
+
 ## Try it
 
 A signed build is included: install [`app/release/app-release.apk`](app/release/app-release.apk)
