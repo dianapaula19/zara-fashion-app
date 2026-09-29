@@ -24,9 +24,15 @@ Computer Science certification exam.
   <img src="docs/q5.png" width="24%" alt="Pick a pair of shoes">
   <img src="docs/q6.png" width="24%" alt="Pick an accessory">
 </p>
+<p>
+  <img src="docs/result_bohemian.png" width="24%" alt="Result: Bohemian">
+  <img src="docs/result_casual.png" width="24%" alt="Result: Casual">
+  <img src="docs/result_chic.png" width="24%" alt="Result: Chic">
+  <img src="docs/result_vintage.png" width="24%" alt="Result: Vintage">
+</p>
 
 Rendered in 2026 from the app's own layouts with [Paparazzi](https://github.com/cashapp/paparazzi).
-The result screens are not shown here because their example photos are of celebrities.
+The four result screens use celebrity street-style photos as examples of each style.
 
 ## Try it
 
